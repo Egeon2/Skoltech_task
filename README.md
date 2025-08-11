@@ -25,10 +25,10 @@
 После запуска "main_algorithm.py" получены данные из Ham, был построен barplot для сравнения accuracy, и confedence interval (CI)
 
 # Accuracy mean plot
-<img width="1621" height="1054" alt="image" src="https://github.com/user-attachments/assets/b66c26f1-2baa-4ee0-9ef9-cea230618abc" />
+<img width="1059" height="1842" alt="image" src="https://github.com/user-attachments/assets/60a47370-724c-4a19-96ea-1cd2877083d2" />
 
 # Accuracy mean + errorbar
-<img width="739" height="656" alt="image" src="https://github.com/user-attachments/assets/3e026656-c57f-4e76-97e9-2e65837ec76b" />
+<img width="1630" height="909" alt="image" src="https://github.com/user-attachments/assets/40a299fd-eebf-415a-b0ac-7c56ff08098e" />
 
 * [Rocket](task1_rocket/rocket.py)
 * [Main Algorithm](task1_rocket/main_algorithm.py)
@@ -43,7 +43,7 @@
 * [Examples](task2_graph/graph_test.py)
 
 # Рандомный граф из 20 человек
-![Uploading image.png…]()
+<img width="739" height="656" alt="image" src="https://github.com/user-attachments/assets/8aaad531-fcc6-4b0d-be01-3b8a93d99edf" />
 Количество и имена людей, кто идет на пикник: (4, ['Christopher Reese', 'Maria Diaz', 'Kyle Johnson', 'Raven Boyd'])
 
 ## Задача №3 - работа с Docker. Подсчет количества каждого слова и поиск топ 10 самых встречаемых
